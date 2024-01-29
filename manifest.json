@@ -1,8 +1,8 @@
 {
     "name": "MTF_Announcement",
     "description": "Replace Hangar Door Open Sound To Mobile Task Force Announcement.",
-	"website_url": "",
-    "version_number": "1.0.0",
+	"website_url": "https://github.com/LTG-Chamberlain/MTF-Announcement/releases/tag/Lethal_Company",
+    "version_number": "1.2.0",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "no00ob-LCSoundTool-1.4.0",
